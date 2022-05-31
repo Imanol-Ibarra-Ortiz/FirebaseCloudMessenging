@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393316995262",
+    "project_id": "fir-cloudmessenging-3033e",
+    "storage_bucket": "fir-cloudmessenging-3033e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393316995262:android:fd11745456eacecc600eef",
+        "android_client_info": {
+          "package_name": "net.imanol_elizabeth.firebasecloudmessenging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393316995262-ht7ffi5bmh43u0bbj652am14opt04ie5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaVrSFh0ignOgJ5u7-YFfDramjA82SUXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393316995262-ht7ffi5bmh43u0bbj652am14opt04ie5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
